@@ -8,19 +8,27 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\VG User\\.nuget\\packages\\": {}
+    "C:\\Users\\marco.bevivino\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VG User\\Desktop\\CORSI\\REACT-DOTNET\\progetto\\react-dotnet\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET+REACT\\DOTNET\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\VG User\\Desktop\\CORSI\\REACT-DOTNET\\progetto\\react-dotnet\\Reactivities\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\VG User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VG User\\Desktop\\CORSI\\REACT-DOTNET\\progetto\\react-dotnet\\Reactivities\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET+REACT\\DOTNET\\Reactivities\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\marco.bevivino\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET+REACT\\DOTNET\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\VG User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marco.bevivino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +36,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://pkgs.dev.azure.com/msc-dev/_packaging/MSC_OneVision/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
