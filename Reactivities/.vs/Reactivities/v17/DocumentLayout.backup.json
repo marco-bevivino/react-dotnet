@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco.bevivino\\Dev\\DOTNET\\Reactivities\\",
+  "WorkspaceRootPath": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40A71EBA-80C1-4531-AE8A-C9DA9277C394}|API\\API.csproj|c:\\users\\marco.bevivino\\dev\\dotnet\\reactivities\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A71EBA-80C1-4531-AE8A-C9DA9277C394}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Controllers\\ActivitiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Controllers\\ActivitiesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Controllers\\BaseApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Controllers\\BaseApiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,16 +50,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "API\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:45:43.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ActivitiesController.cs",
+              "ToolTip": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "API\\Controllers\\ActivitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:41:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marco.bevivino\\Dev\\DOTNET\\Reactivities\\API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\marco.bevivino\\Dev\\DOTNET\\Reactivities\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\marco.bevivino\\Dev\\COURSES\\DOTNET\u002BREACT\\DOTNET\\Reactivities\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T10:36:28.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T10:36:28.6Z"
             }
           ]
         },
